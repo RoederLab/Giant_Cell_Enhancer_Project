@@ -1,0 +1,93 @@
+Image_name,Genotype,Plant_number,laser,Cell_type,Count,Total_area,Avg_area
+Segmented_GiantCells_pAR389-Col-T1#1-10X-1A_Maximumintensityprojection_edited.tif,pAR389,1,1A,Giant,14,184771170.500,13197940.750
+Segmented_GiantCells_pAR389-Col-T1#14-10X-1A_Maximumintensityprojection_edited.tif (RGB).tif,pAR389,14,1A,Giant,49,833711421.000,17014518.796
+Segmented_GiantCells_pAR389-Col-T1#16-10X-1A_Maximumintensityprojection_edited.tif (RGB).tif,pAR389,16,1A,Giant,44,744563070.500,16921887.966
+Segmented_GiantCells_pAR389-Col-T1#2-10X-1A_Maximumintensityprojection_edited.tif (RGB).tif,pAR389,2,1A,Giant,32,572367295.000,17886477.969
+Segmented_GiantCells_pAR389-Col-T1#3-10X-1A_Maximumintensityprojection_edited.tif (RGB).tif,pAR389,3,1A,Giant,45,642465794.500,14277017.656
+Segmented_SmallCells_pAR389-Col-T1#1-10X-1A_Maximumintensityprojection_edited.tif,pAR389,1,1A,Small,32,60137785.750,1879305.805
+Segmented_SmallCells_pAR389-Col-T1#14-10X-1A_Maximumintensityprojection_edited.tif (RGB).tif,pAR389,14,1A,Small,176,653547077.250,3713335.666
+Segmented_SmallCells_pAR389-Col-T1#16-10X-1A_Maximumintensityprojection_edited.tif (RGB).tif,pAR389,16,1A,Small,174,535139137.625,3075512.285
+Segmented_SmallCells_pAR389-Col-T1#2-10X-1A_Maximumintensityprojection_edited.tif (RGB).tif,pAR389,2,1A,Small,125,373900148.000,2991201.184
+Segmented_SmallCells_pAR389-Col-T1#3-10X-1A_Maximumintensityprojection_edited.tif (RGB).tif,pAR389,3,1A,Small,61,178421215.375,2924937.957
+Segmented_GiantCells_pAR389-Col-T1#10-10X-1A_Maximumintensityprojection.tif,pAR389,10,1A,Giant,39,7121,182.590
+Segmented_SmallCells_pAR389-Col-T1#10-10X-1A_Maximumintensityprojection.tif,pAR389,10,1A,Small,187,5701,30.487
+Segmented_GiantCells_pAR389-Col-T1#11-10X-1A_Maximumintensityprojection.tif,pAR389,11,1A,Giant,35,5761,164.600
+Segmented_SmallCells_pAR389-Col-T1#11-10X-1A_Maximumintensityprojection.tif,pAR389,11,1A,Small,188,5420,28.830
+Segmented_GiantCells_pAR389-Col-T1#12-10X-1A_Maximumintensityprojection.tif,pAR389,12,1A,Giant,40,5531,138.275
+Segmented_SmallCells_pAR389-Col-T1#12-10X-1A_Maximumintensityprojection.tif,pAR389,12,1A,Small,95,2182,22.968
+Segmented_GiantCells_pAR389-Col-T1#17-10X-1A_Maximumintensityprojection.tif,pAR389,17,1A,Giant,29,4796,165.379
+Segmented_SmallCells_pAR389-Col-T1#17-10X-1A_Maximumintensityprojection.tif,pAR389,17,1A,Small,294,7875,26.786
+Segmented_GiantCells_pAR389-Col-T1#18-10X-1A_Maximumintensityprojection.tif,pAR389,18,1A,Giant,36,5162,143.389
+Segmented_SmallCells_pAR389-Col-T1#18-10X-1A_Maximumintensityprojection.tif,pAR389,18,1A,Small,183,4676,25.552
+Segmented_GiantCells_pAR389-Col-T1#20-10X-1A_Maximumintensityprojection.tif,pAR389,20,1A,Giant,44,6192,140.727
+Segmented_SmallCells_pAR389-Col-T1#20-10X-1A_Maximumintensityprojection.tif,pAR389,20,1A,Small,294,6891,23.439
+Segmented_GiantCells_pAR389-Col-T1#4-10X-1A_Maximumintensityprojection.tif,pAR389,4,1A,Giant,23,3136,136.348
+Segmented_SmallCells_pAR389-Col-T1#4-10X-1A_Maximumintensityprojection.tif,pAR389,4,1A,Small,260,7453,28.665
+Segmented_GiantCells_pAR389-Col-T1#5-10X-1A_Maximumintensityprojection.tif,pAR389,5,1A,Giant,49,7318,149.347
+Segmented_SmallCells_pAR389-Col-T1#5-10X-1A_Maximumintensityprojection.tif,pAR389,5,1A,Small,997,29829,29.919
+Segmented_GiantCells_pAR389-Col-T1#6-10X-1A_Maximumintensityprojection.tif,pAR389,6,1A,Giant,33,4819,146.030
+Segmented_SmallCells_pAR389-Col-T1#6-10X-1A_Maximumintensityprojection.tif,pAR389,6,1A,Small,168,3381,20.125
+Segmented_GiantCells_pAR389-Col-T1#7-10X-1A_Maximumintensityprojection.tif,pAR389,7,1A,Giant,39,6176,158.359
+Segmented_SmallCells_pAR389-Col-T1#7-10X-1A_Maximumintensityprojection.tif,pAR389,7,1A,Small,230,6693,29.100
+Segmented_GiantCells_pAR389-Col-T1#8-10X-1A_Maximumintensityprojection.tif,pAR389,8,1A,Giant,36,5273,146.472
+Segmented_SmallCells_pAR389-Col-T1#8-10X-1A_Maximumintensityprojection.tif,pAR389,8,1A,Small,160,3601,22.506
+Segmented_GiantCells_pAR389-Col-T1#9-10X-1A_Maximumintensityprojection.tif,pAR389,9,1A,Giant,41,6030,147.073
+Segmented_SmallCells_pAR389-Col-T1#9-10X-1A_Maximumintensityprojection.tif,pAR389,9,1A,Small,225,5533,24.591
+Segmented_GiantCells_pAR388-Col-T1#1-10X-1A_Maximumintensityprojection.tif,pAR388,1,1A,Giant,39,5688,145.846
+Segmented_SmallCells_pAR388-Col-T1#1-10X-1A_Maximumintensityprojection.tif,pAR388,1,1A,Small,675,19809,29.347
+Segmented_GiantCells_pAR388-Col-T1#10-10X-1A_Maximumintensityprojection.tif,pAR388,10,1A,Giant,32,5457,170.531
+Segmented_SmallCells_pAR388-Col-T1#10-10X-1A_Maximumintensityprojection.tif,pAR388,10,1A,Small,471,16985,36.062
+Segmented_GiantCells_pAR388-Col-T1#11-10X-1A_Maximumintensityprojection.tif,pAR388,11,1A,Giant,7,1200,171.429
+Segmented_SmallCells_pAR388-Col-T1#11-10X-1A_Maximumintensityprojection.tif,pAR388,11,1A,Small,307,8504,27.700
+Segmented_GiantCells_pAR388-Col-T1#12-10X-1A_Maximumintensityprojection.tif,pAR388,12,1A,Giant,22,2893,131.500
+Segmented_SmallCells_pAR388-Col-T1#12-10X-1A_Maximumintensityprojection.tif,pAR388,12,1A,Small,658,17859,27.141
+Segmented_GiantCells_pAR388-Col-T1#13-10X-1A_Maximumintensityprojection.tif,pAR388,13,1A,Giant,34,4406,129.588
+Segmented_SmallCells_pAR388-Col-T1#13-10X-1A_Maximumintensityprojection.tif,pAR388,13,1A,Small,863,29637,34.342
+Segmented_GiantCells_pAR388-Col-T1#14-10X-1A_Maximumintensityprojection.tif,pAR388,14,1A,Giant,19,2742,144.316
+Segmented_SmallCells_pAR388-Col-T1#14-10X-1A_Maximumintensityprojection.tif,pAR388,14,1A,Small,629,18101,28.777
+Segmented_GiantCells_pAR388-Col-T1#15-10X-1A_Maximumintensityprojection.tif,pAR388,15,1A,Giant,24,3537,147.375
+Segmented_SmallCells_pAR388-Col-T1#15-10X-1A_Maximumintensityprojection.tif,pAR388,15,1A,Small,423,14616,34.553
+Segmented_GiantCells_pAR388-Col-T1#16-10X-1A_Maximumintensityprojection.tif,pAR388,16,1A,Giant,27,4347,161.000
+Segmented_SmallCells_pAR388-Col-T1#16-10X-1A_Maximumintensityprojection.tif,pAR388,16,1A,Small,431,12304,28.548
+Segmented_GiantCells_pAR388-Col-T1#17-10X-1A_Maximumintensityprojection.tif,pAR388,17,1A,Giant,36,4521,125.583
+Segmented_SmallCells_pAR388-Col-T1#17-10X-1A_Maximumintensityprojection.tif,pAR388,17,1A,Small,177,3867,21.847
+Segmented_GiantCells_pAR388-Col-T1#18-10X-1A_Maximumintensityprojection.tif,pAR388,18,1A,Giant,40,5228,130.700
+Segmented_SmallCells_pAR388-Col-T1#18-10X-1A_Maximumintensityprojection.tif,pAR388,18,1A,Small,216,5160,23.889
+Segmented_GiantCells_pAR388-Col-T1#19-10X-1A_Maximumintensityprojection.tif,pAR388,19,1A,Giant,28,3849,137.464
+Segmented_SmallCells_pAR388-Col-T1#19-10X-1A_Maximumintensityprojection.tif,pAR388,19,1A,Small,65,1302,20.031
+Segmented_GiantCells_pAR388-Col-T1#2-10X-1A_Maximumintensityprojection.tif,pAR388,2,1A,Giant,33,5527,167.485
+Segmented_SmallCells_pAR388-Col-T1#2-10X-1A_Maximumintensityprojection.tif,pAR388,2,1A,Small,687,23435,34.112
+Segmented_GiantCells_pAR388-Col-T1#20-10X-1A_Maximumintensityprojection.tif,pAR388,20,1A,Giant,29,3636,125.379
+Segmented_SmallCells_pAR388-Col-T1#20-10X-1A_Maximumintensityprojection.tif,pAR388,20,1A,Small,361,7468,20.687
+Segmented_GiantCells_pAR388-Col-T1#21-10X-1A_Maximumintensityprojection.tif,pAR388,21,1A,Giant,44,5406,122.864
+Segmented_SmallCells_pAR388-Col-T1#21-10X-1A_Maximumintensityprojection.tif,pAR388,21,1A,Small,313,6605,21.102
+Segmented_GiantCells_pAR388-Col-T1#3-10X-2A_Maximumintensityprojection.tif,pAR388,3,2A,Giant,21,3383,161.095
+Segmented_SmallCells_pAR388-Col-T1#3-10X-2A_Maximumintensityprojection.tif,pAR388,3,2A,Small,465,12323,26.501
+Segmented_GiantCells_pAR388-Col-T1#4-10X-1A_Maximumintensityprojection.tif,pAR388,4,1A,Giant,37,5752,155.459
+Segmented_SmallCells_pAR388-Col-T1#4-10X-1A_Maximumintensityprojection.tif,pAR388,4,1A,Small,492,12666,25.744
+Segmented_GiantCells_pAR388-Col-T1#5-10X-1A_Maximumintensityprojection.tif,pAR388,5,1A,Giant,35,5710,163.143
+Segmented_SmallCells_pAR388-Col-T1#5-10X-1A_Maximumintensityprojection.tif,pAR388,5,1A,Small,639,19052,29.815
+Segmented_GiantCells_pAR388-Col-T1#6-10X-1A_Maximumintensityprojection.tif,pAR388,6,1A,Giant,28,3925,140.179
+Segmented_SmallCells_pAR388-Col-T1#6-10X-1A_Maximumintensityprojection.tif,pAR388,6,1A,Small,829,24116,29.090
+Segmented_GiantCells_pAR388-Col-T1#7-10X-1A_Maximumintensityprojection.tif,pAR388,7,1A,Giant,30,4325,144.167
+Segmented_SmallCells_pAR388-Col-T1#7-10X-1A_Maximumintensityprojection.tif,pAR388,7,1A,Small,799,24866,31.121
+Segmented_GiantCells_pAR388-Col-T1#8-10X-1A_Maximumintensityprojection.tif,pAR388,8,1A,Giant,36,5826,161.833
+Segmented_SmallCells_pAR388-Col-T1#8-10X-1A_Maximumintensityprojection.tif,pAR388,8,1A,Small,729,26464,36.302
+Segmented_GiantCells_pAR388-Col-T1#9-10X-1A_Maximumintensityprojection.tif,pAR388,9,1A,Giant,8,1070,133.750
+Segmented_SmallCells_pAR388-Col-T1#9-10X-1A_Maximumintensityprojection.tif,pAR388,9,1A,Small,173,4221,24.399
+Segmented_GiantCells_pLH167-Col-T1#1-PI-10X-2A_Maximumintensityprojection (cropped).tif,pLH167,1,10X,Giant,29,4299,148.241
+Segmented_SmallCells_pLH167-Col-T1#1-PI-10X-2A_Maximumintensityprojection (cropped).tif,pLH167,1,10X,Small,112,1833,16.366
+Segmented_GiantCells_pLH167-Col-T1#1-PI-10X-3A_Maximumintensityprojection(cropped).tif,pLH167,1,10X,Giant,40,6645,166.125
+Segmented_SmallCells_pLH167-Col-T1#1-PI-10X-3A_Maximumintensityprojection(cropped).tif,pLH167,1,10X,Small,355,9517,26.808
+Segmented_GiantCells_pLH167-Col-T1#1-PI-10X-4A_Maximumintensityprojection(Cropped).tif,pLH167,1,10X,Giant,39,6023,154.436
+Segmented_SmallCells_pLH167-Col-T1#1-PI-10X-4A_Maximumintensityprojection(Cropped).tif,pLH167,1,10X,Small,409,11235,27.469
+Segmented_GiantCells_pLH167-Col-T1#1-PI-10X-5A_Maximumintensityprojection(Cropped).tif,pLH167,1,10X,Giant,27,3923,145.296
+Segmented_SmallCells_pLH167-Col-T1#1-PI-10X-5A_Maximumintensityprojection(Cropped).tif,pLH167,1,10X,Small,183,3654,19.967
+Segmented_GiantCells_pLH167-Col-T1#14-PI-10X-2A_Maximumintensityprojection(Cropped).tif,pLH167,14,10X,Giant,17,2885,169.706
+Segmented_SmallCells_pLH167-Col-T1#14-PI-10X-2A_Maximumintensityprojection(Cropped).tif,pLH167,14,10X,Small,368,6642,18.049
+Segmented_GiantCells_pLH167-Col-T1#14-PI-10X-3A_Maximumintensityprojection(Cropped).tif,pLH167,14,10X,Giant,22,3850,175.000
+Segmented_SmallCells_pLH167-Col-T1#14-PI-10X-3A_Maximumintensityprojection(Cropped).tif,pLH167,14,10X,Small,482,13086,27.149
+Segmented_GiantCells_pLH167-Col-T1#14-PI-10X-4A_Maximumintensityprojection(Cropped).tif,pLH167,14,10X,Giant,30,4635,154.500
+Segmented_SmallCells_pLH167-Col-T1#14-PI-10X-4A_Maximumintensityprojection(Cropped).tif,pLH167,14,10X,Small,550,15664,28.480
+Segmented_GiantCells_pLH167-Col-T1#14-PI-10X-5A_Maximumintensityprojection(Cropped).tif,pLH167,14,10X,Giant,27,3459,128.111
+Segmented_SmallCells_pLH167-Col-T1#14-PI-10X-5A_Maximumintensityprojection(Cropped).tif,pLH167,14,10X,Small,343,7336,21.388
